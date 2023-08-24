@@ -14,7 +14,7 @@ const Navbar = () => {
       }}
     >
       <div className="container-fluid">
-        <a className="navbar-brand" style={{ fontWeight: 'bolder' }}>
+        <a href="" className="navbar-brand" style={{ fontWeight: 'bolder' }}>
           ❤️For the Love of My Life❤️
         </a>
 

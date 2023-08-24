@@ -1,7 +1,7 @@
 import React from 'react';
 import image from '../Images/1.png';
 
-const Pic_of_the_Day = () => {
+const PicOfTheDay = () => {
   return (
     <div
       style={{
@@ -22,5 +22,4 @@ const Pic_of_the_Day = () => {
     </div>
   );
 };
-
-export default Pic_of_the_Day;
+export default PicOfTheDay;
